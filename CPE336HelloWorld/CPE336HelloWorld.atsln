@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "CPE336HelloWorld", "CPE336HelloWorld\CPE336HelloWorld.cproj", "{408656DB-47BF-4CB7-94BF-C8E499C7CD89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408656DB-47BF-4CB7-94BF-C8E499C7CD89}.Debug|AVR.ActiveCfg = Debug|AVR
+		{408656DB-47BF-4CB7-94BF-C8E499C7CD89}.Debug|AVR.Build.0 = Debug|AVR
+		{408656DB-47BF-4CB7-94BF-C8E499C7CD89}.Release|AVR.ActiveCfg = Release|AVR
+		{408656DB-47BF-4CB7-94BF-C8E499C7CD89}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
